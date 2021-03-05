@@ -1,6 +1,6 @@
 <template>
   <div class="dashboard-container">
-    <div class="dashboard-text">name: {{ name }}</div>
+    <div class="dashboard-text">当前登录用户: {{ name }}</div>
     <img
       height="1000"
       src="../../../image/C7181A414BCD2616311C70B0813F3134.png"
